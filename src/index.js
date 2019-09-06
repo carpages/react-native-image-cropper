@@ -1,3 +1,3 @@
-module.exports={
-	ImageCrop: require('./ImageCrop'),
-}
+module.exports = {
+  ImageCrop: require( './ImageCrop' )
+};

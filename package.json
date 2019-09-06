@@ -29,15 +29,15 @@
   },
   "homepage": "https://github.com/stoffern/react-native-image-cropper#readme",
   "dependencies": {
-    "eslint": "^4.8.0",
-    "eslint-plugin-react": "^7.4.0",
     "gl-react": "^2.3.1",
-    "gl-react-native": "git://github.com/gre/gl-react-native-v2.git#10d3dce593080301dc12e467cd5e1c3d22995167",
+    "gl-react-expo": "^3.17.2",
     "prop-types": "^15.6.0",
     "rect-clamp": "^0.0.0",
     "rect-crop": "^0.0.0"
   },
   "devDependencies": {
+    "eslint": "5.16.x",
+    "eslint-config-carpages": "3.x",
     "cz-conventional-changelog": "^2.0.0",
     "semantic-release": "^8.0.3"
   },
